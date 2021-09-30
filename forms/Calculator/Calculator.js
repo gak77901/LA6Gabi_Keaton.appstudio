@@ -15,7 +15,7 @@ btnAdd.onclick=function(){
   let num1 = Number(inptNum1.value)
   let num2 = Number(inptNum2.value)
   names = inptName.value
-  lblCalculator.value = name + ", the answer is " + addTwo(num1,num2)
+  lblCalculator.value = names + ", the answer is " + addTwo(num1,num2)
 }
 
 
@@ -23,7 +23,7 @@ btnMultiply.onclick=function(){
   let num1 = Number(inptNum1.value)
   let num2 = Number(inptNum2.value)
   names = inptName.value
-  lblCalculator.value = name + ", the answer is " + multiplyTwo(num1,num2)
+  lblCalculator.value = names + ", the answer is " + multiplyTwo(num1,num2)
 }
 
 
