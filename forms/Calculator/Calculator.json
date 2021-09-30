@@ -14,27 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "Calculator",
         "Elements",
-        "inptName.json"
+        "inptNum1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "Calculator",
         "Elements",
-        "btnSubmit.json"
+        "inptNum2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "Calculator",
         "Elements",
-        "lblName.json"
+        "btnAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Calculator",
+        "Elements",
+        "btnMultiply.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Calculator",
+        "Elements",
+        "btnReset.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Calculator",
+        "Elements",
+        "lblCalculator.json"
       ]
     }
   ],
@@ -44,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "Calculator",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +84,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
