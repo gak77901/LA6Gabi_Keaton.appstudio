@@ -12,3 +12,8 @@ btnSubmit.onclick=function(){
   lblName.value = names + ", you have been added to the membership roster."
   }
 }
+
+
+btnCalc.onclick=function(){
+  ChangeForm(Calculator)
+}
